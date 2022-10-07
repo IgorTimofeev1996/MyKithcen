@@ -1,0 +1,157 @@
+{
+  "dishSaled": [
+
+        {
+          "id": 1,
+          "name": "Salvon saled",
+          "calories": 150,
+          "time": 15,
+          "max_person": 2,
+          "img": "/assets/image/pngfind 3.png",
+          "price": 250
+        },
+        {
+          "id": 2,
+          "name": "Raw Salmon saled",
+          "calories": 150,
+          "time": 15,
+          "max_person": 2,
+          "img": "/assets/image/kindpng_694225 2.png",
+          "price": 250
+        },
+        {
+          "id": 3,
+          "name": "Seafood Salmon saled",
+          "calories": 120,
+          "time": 20,
+          "max_person": 3,
+          "img": "/assets/image/pngfind 1.png",
+          "price": 300
+        },
+        {
+          "id": 4,
+          "name": "Caesar Salmon saled",
+          "calories": 160,
+          "time": 10,
+          "max_person": 1,
+          "img": "/assets/image/kindpng_2422753 2.png",
+          "price": 150
+        }
+
+
+ ],
+  "dishSoup": [
+       {
+        "id": 1,
+        "name": "Chicken soup",
+        "calories": 150,
+        "time": 15,
+        "max_person": 2,
+        "img": "/assets/image/pngfind 3.png",
+        "price": 100
+        },
+        {
+          "id": 2,
+          "name": "Fish soup",
+          "calories": 150,
+          "time": 15,
+          "max_person": 2,
+          "img": "/assets/image/kindpng_694225 2.png",
+          "price": 350
+        },
+        {
+        "id": 3,
+        "name": "Vegetable soup",
+        "calories": 120,
+        "time": 20,
+        "max_person": 3,
+        "img": "/assets/image/pngfind 1.png",
+        "price": 300
+        },
+        {
+        "id": 4,
+        "name": "Mexican soup",
+        "calories": 160,
+        "time": 10,
+        "max_person": 1,
+        "img": "/assets/image/kindpng_2422753 2.png",
+        "price": 150
+        }
+  ],
+  "dishPasta": [
+        {
+          "id": 1,
+          "name": "Carbonara",
+          "calories": 150,
+          "time": 15,
+          "max_person": 2,
+          "img": "/assets/image/pngfind 3.png",
+          "price": 250
+        },
+        {
+          "id": 2,
+          "name": "Bolognese",
+          "calories": 150,
+          "time": 15,
+          "max_person": 2,
+          "img": "/assets/image/kindpng_694225 2.png",
+          "price": 250
+        },
+        {
+          "id": 3,
+          "name": "Pasta with seafood",
+          "calories": 120,
+          "time": 20,
+          "max_person": 3,
+          "img": "/assets/image/pngfind 1.png",
+          "price": 300
+        },
+        {
+          "id": 4,
+          "name": "Pasta with cheese\n",
+          "calories": 160,
+          "time": 10,
+          "max_person": 1,
+          "img": "/assets/image/kindpng_2422753 2.png",
+          "price": 150
+        }
+  ],
+  "dishMeat": [
+        {
+          "id": 1,
+          "name": "Pork steak",
+          "calories": 150,
+          "time": 15,
+          "max_person": 2,
+          "img": "/assets/image/pngfind 3.png",
+          "price": 250
+        },
+        {
+          "id": 2,
+          "name": "Kebab",
+          "calories": 150,
+          "time": 15,
+          "max_person": 2,
+          "img": "/assets/image/kindpng_694225 2.png",
+          "price": 250
+        },
+        {
+          "id": 3,
+          "name": "Chicken chop",
+          "calories": 120,
+          "time": 20,
+          "max_person": 3,
+          "img": "/assets/image/pngfind 1.png",
+          "price": 300
+        },
+        {
+          "id": 4,
+          "name": "lula kebab",
+          "calories": 160,
+          "time": 10,
+          "max_person": 1,
+          "img": "/assets/image/kindpng_2422753 2.png",
+          "price": 150
+        }
+  ]
+}

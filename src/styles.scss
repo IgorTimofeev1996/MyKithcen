@@ -1,0 +1,23 @@
+html,body {
+  height: 100%;
+}
+
+body  {
+  margin: 0;
+  background: linear-gradient(- 65deg,#C6FFDD,#FBD786,#FFFFFF);
+  background-size:  4000px;
+  animation: gradient 7s ease infinite;
+}
+
+
+@keyframes gradient {
+  0% {
+    background-position: 0 50%;
+  }
+  50% {
+    background-position: 100% 50%;
+  }
+  100% {
+    background-position: 0 50%;
+  }
+}/* You can add global styles to this file, and also import other style files */

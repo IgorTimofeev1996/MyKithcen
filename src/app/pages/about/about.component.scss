@@ -1,0 +1,63 @@
+.about-us_content {
+
+  display: block;
+  padding: 20px;
+  margin: auto;
+  width: 900px;
+  height: 320px;
+  font-size: 22px;
+  background-image: linear-gradient(to bottom, rgba(255, 255, 255, 0.9) 30%, transparent 120%), url("Снимок экрана 2022-10-03 в 21.31.37.png");
+  background-size: cover;
+  background-position: center;
+  border-radius: 30px;
+  font-family: "Roboto Thin";
+  text-align: center;
+}
+
+h3 {
+ font-size: 30px;
+  color: #9b4a07;
+  margin-bottom: 0;
+
+}
+
+h4 {
+
+  font-size: 15px;
+}
+
+hr {
+  border: none;
+  height: 3px;
+  margin: 40px 0;
+  background-image: linear-gradient(to right, #FFF, #9b4a07, #FFF);
+}
+hr:before,
+hr:after {
+  content: '';
+  display: inline-block;
+  border-radius: 100%;
+  width: 40px;
+  height: 40px;
+  border: 2px solid #9b4a07;
+  position: absolute;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  background: #FFF;
+}
+hr:after {
+  animation: anim-hr 1s linear infinite;
+}
+@keyframes anim-hr {
+  0% {
+    width: 40px;
+    height: 40px;
+  }
+  100% {
+    width: 0;
+    height: 0;
+  }
+}
+
+
+
